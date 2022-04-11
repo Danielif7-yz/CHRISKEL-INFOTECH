@@ -1,2 +1,2 @@
 # CHRISKEL-INFOTECH
-An automated system with which  the HOD can satisfactorily coordinate the affairs of the department
+Lead the project development team that developed An automated system with which  the HOD Computer Science, AE-FUNAI, can satisfactorily coordinate the affairs of the department.
